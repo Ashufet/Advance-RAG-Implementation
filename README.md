@@ -6,7 +6,3 @@ We will learn below key concepts -
   - Evaluate(metric like hit_rate and MRR) the performance of Retrieval system using Test Cases generated automatically using LLM model.
   - Many more...
 
-
-I have created below YouTube channel to explain these concepts -
-
-https://youtube.com/@TechwithAshishSingh?si=J3DsOv9KOTRz1g7d
